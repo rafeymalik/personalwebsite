@@ -1,0 +1,59 @@
+@import url(http://fonts.googleapis.com/css?family=Lato|Raleway&subset=latin,latin-ext);
+body {
+  /*background-color: #ffe9c5;#dbdbdb;f6eedf*/
+  background-color: #d4f3ef;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+/*h1, h2, h3, h4, h5, h6 {
+    clear: both;
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    margin-bottom: 15px;
+    margin-bottom: 0.9375rem;
+    margin-top: 0;
+    color: #0779e4;
+  }*/
+h1 {
+    color: #0779e4;
+    font-family: 'Raleway';
+    letter-spacing: 2px;
+
+  }
+  h3 {
+    color: #0779e4;
+    font-family: arial;
+    font-size: 30px;
+  } */
+a:link {
+  color: #333333;;
+}
+a:visited {
+  color: #333333;;
+}
+p {
+color: #333333;;
+  font-family: inherit;
+  font-size: 20px;
+}
+table{
+  color: #505050;
+  font-family: helvetica;
+  font-size: 20px;
+}
+ul{
+  color: #505050;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
